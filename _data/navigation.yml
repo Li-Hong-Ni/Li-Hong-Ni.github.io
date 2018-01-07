@@ -2,20 +2,20 @@
 
 - title: 网页设计作品集
   url: /portfolio/
-  excerpt: 往期网页作品
-  image: webpage design.gif
+  excerpt: 网页设计作品
+  image: design.png
   
 - title: 信息可视化作品集
   url: /infovis/
-  excerpt: 往期tableau作品
-  image: visualization.gif
+  excerpt: 期中tableau
+  image: qimo.png
   
 - title: web笔记
   url: /posts/rwd/
-  excerpt: 记录知识点
-  image: notes.gif
+  excerpt: 网页随堂笔记
+  image: web.png
   
 - title: 信息可视化笔记
   url: /posts/infovis/
-  excerpt: "Github: SylviaTang"
-  image: contact me.gif   
+  excerpt: "Github: Li-Hong-Ni"
+  image: message.png  

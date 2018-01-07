@@ -3,6 +3,8 @@ layout: article
 title:  "如何学习Markdown语法"
 date:   2017-12-31 18:07:50 +0800
 categories: posts rwd
+excerpt: "如何学习markdown"
+tags: []
 image:
   teaser: markdown.png
   feature: markdown.png

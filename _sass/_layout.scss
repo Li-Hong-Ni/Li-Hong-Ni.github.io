@@ -273,21 +273,21 @@
 // page header
 .page-feature {
 	@include fill-parent;
-	// expand image to cover full width of header
+	// expand image to cover full width of header--
 	// instead,using auto, max-width
 	img {
-		width: 100%;
+		width: auto;
 		max-width: 100%;
 		@include media($medium) {
-			width: 50%;
+			max-width: 50%;
 		}
 		@include media($large) {
-			width: 33%;
+			max-width: 33%;
 		}
 
 	}
 }
-// make image flush with edges on small screens 
+// make image flush with edges on small screens (only when)
 .page-image {
 	position: relative;
 	margin-left: -1 * $gutter;

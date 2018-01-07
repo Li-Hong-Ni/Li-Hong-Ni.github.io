@@ -6,8 +6,8 @@ modified:
 excerpt: "加油"
 tags: []
 image: 
-  feature: 
-  teaser:
+  teaser: geren.png
+  feature: geren.png
 ---
 
 

@@ -6,8 +6,8 @@ categories: posts infovis infovisnotes
 excerpt: "Tableau基础使用知识"
 tags: []
 image:
-  teaser: Tableau.png
-  feature: Tableau.png
+  teaser: tableau.png
+  feature: tableau.png
 ---
 
 Tableau作为一种分析数据的工具，能够灵活运用对我们的生活有很大帮助。

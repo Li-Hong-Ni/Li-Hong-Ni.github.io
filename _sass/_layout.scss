@@ -276,18 +276,18 @@
 	// expand image to cover full width of header
 	// instead,using auto, max-width
 	img {
-		width: auto;
+		width: 100%;
 		max-width: 100%;
 		@include media($medium) {
-			max-width: 50%;
+			width: 50%;
 		}
 		@include media($large) {
-			max-width: 33%;
+			width: 33%;
 		}
 
 	}
 }
-// make image flush with edges on small screens (only when)
+// make image flush with edges on small screens 
 .page-image {
 	position: relative;
 	margin-left: -1 * $gutter;

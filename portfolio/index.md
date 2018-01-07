@@ -3,10 +3,10 @@ layout: archive
 title: "网页设计作品集"
 date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "(๑•ᴗ•๑)"
+excerpt: "一起学习吧"
 tags: []
 image: 
-  feature: contact me.gif
+  feature: design.png
   teaser:
 ---
 

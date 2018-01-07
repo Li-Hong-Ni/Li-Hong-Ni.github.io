@@ -9,6 +9,7 @@ image:
   teaser: Tableau.png
   feature: Tableau.png
 ---
+
 Tableau作为一种分析数据的工具，能够灵活运用对我们的生活有很大帮助。
 
 ### tableau入门  

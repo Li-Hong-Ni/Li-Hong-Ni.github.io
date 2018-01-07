@@ -273,7 +273,7 @@
 // page header
 .page-feature {
 	@include fill-parent;
-	// expand image to cover full width of header--
+	// expand image to cover full width of header
 	// instead,using auto, max-width
 	img {
 		width: auto;
